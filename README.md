@@ -1,11 +1,3 @@
-# Hi, I'm Moamel 👋
-
-### Backend & Mobile Developer | DevOps & DevSecOps Enthusiast
-
-I build backend systems, mobile applications, and secure, scalable infrastructure.
-I'm interested in system design, application security, automation, and building production-ready software.
-
----
 
 ## 🛠️ Tech Stack
 
@@ -83,29 +75,5 @@ Security is part of my development and deployment workflow.
 
 ---
 
-## ⚙️ CI/CD
-
-I work with automated pipelines for:
-
-```text
-Code
- ↓
-Git
- ↓
-CI
- ↓
-Tests
- ↓
-SAST
- ↓
-Dependency Scan
- ↓
-Secret Scan
- ↓
-Container Scan
- ↓
-Build
- ↓
-Deploy
  ↓
 Runtime Monitoring
