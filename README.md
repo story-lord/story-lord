@@ -13,10 +13,17 @@
 
 <br/>
 
-### 🛠️ Technologies
+### 🛠️ Technologies & Skills
 
 
 <img src="https://img.shields.io/badge/Assembly-GREEN?style=for-the-badge&logo=LOGO&logoColor=white" />
+<img src="https://img.shields.io/badge/CoA-GREEN?style=for-the-badge&logo=LOGO&logoColor=white" />
+<img src="https://img.shields.io/badge/Packet Analysis-GREEN?style=for-the-badge&logo=LOGO&logoColor=white" />
+<img src="https://img.shields.io/badge/Cryptography-GREEN?style=for-the-badge&logo=LOGO&logoColor=white" />
+<img src="https://img.shields.io/badge/Network Forensics-GREEN?style=for-the-badge&logo=LOGO&logoColor=white" />
+<img src="https://img.shields.io/badge/-GREEN?style=for-the-badge&logo=LOGO&logoColor=white" />
+
+
 <br/>
 
 ### 📫 Contact Me
